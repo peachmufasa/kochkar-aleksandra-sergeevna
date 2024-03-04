@@ -1,16 +1,31 @@
-# lesson_1
+# Александра Кочкарь
 
-A new Flutter project.
+## Образование
 
-## Getting Started
+_2014 - 2018:_ Лингвистика (бакалавриат)
 
-This project is a starting point for a Flutter application.
+_2023 - н.в.:_ Прикладная математика и информатика (магистратура)
 
-A few resources to get you started if this is your first Flutter project:
+## Иностранные языки
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Английский (С1)
+- Корейский (А2)
+- Японский (А1)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Языки программирования
+
+- C#
+- JavaScript
+  
+Не совсем языки, но все же
+- SQL
+- HTML
+- CSS (SCSS, Less, Bootstrap, Tailwind)
+
+## На чем собираюсь сконцентрировать свое внимание
+
+- React
+- Адаптивная верстка
+- Доступность веб-приложений
+- Алгоритмы
+- TypeScript
